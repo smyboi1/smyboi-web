@@ -1,0 +1,2 @@
+# smyboi-web
+Code legend
